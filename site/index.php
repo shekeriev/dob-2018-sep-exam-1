@@ -10,7 +10,7 @@
 <?php
    $database = "docker_info";
    $user = "root";
-   $password  = "Password1";
+   $password  = "1q2w3e4r";
    $host = "dob-mysql";
 
    try {
